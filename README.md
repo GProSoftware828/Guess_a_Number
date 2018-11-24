@@ -1,6 +1,6 @@
 ## Guess_a_Number
 ### Basic html and app files.
-#### Using the method getRandomNUmber:
+#### Using the method getRandomNumber:
 
 ```
 let min = 1,
@@ -9,5 +9,5 @@ let min = 1,
 		guessesLeft = 3;
 ```
 
-### Includes event listener
+### App.js includes an event listener
 
